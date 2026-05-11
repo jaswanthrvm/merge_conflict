@@ -1,4 +1,8 @@
+
 name="ms dhoni"
+iteration=[]
 for i in name:
-    print(i)
-# msd.py modified in dev2
+
+    iteration.append(i)
+print(iteration)
+ 
