@@ -1,3 +1,6 @@
+
 name="ms dhoni"
+iteration=[]
 for i in name:
-    print(i)
+    iteration.append(i)
+print(iteration)
